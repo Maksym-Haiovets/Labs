@@ -1,0 +1,5 @@
+﻿  labs4.cpp
+c:\users\makcu\source\repos\labs4\labs4\labs4.cpp(13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\makcu\source\repos\labs4\labs4\labs4.cpp(13): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\makcu\source\repos\labs4\labs4\labs4.cpp(13): note: the missing variadic argument 2 is required by format string '%d'
+  labs4.vcxproj -> C:\Users\makcu\source\repos\labs4\Debug\labs4.exe
