@@ -1,0 +1,4 @@
+﻿  labs5.cpp
+c:\users\makcu\source\repos\labs5\labs5\labs5.cpp(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\makcu\source\repos\labs5\labs5\labs5.cpp(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  labs5.vcxproj -> C:\Users\makcu\source\repos\labs5\Debug\labs5.exe
